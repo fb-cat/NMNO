@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace 속성 : 매퍼파일의 완전한 경로를 넣음. .xml은 생략 -->
+<mapper namespace="mybatis.mapper.bbs">
+
+
+
+</mapper>

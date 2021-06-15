@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<!-- MyBatis 환경설정파일
+1. 데이터베이스 연결정보 설정 (root-context.xml에서 작성하기 때문에 필요없음)
+2. Mapper파일의 위치정보 설정 -->
+<configuration>
+	<!-- 마이바티스에서 사용할 리소스 파일(.properties) 설정 -->
+	<properties resource="mybatis/connect.properties"/>
+
+	<!-- 매퍼파일의 위치 설정 : SQL쿼리 결과와 자바빈 매핑 -->
+	<mappers>
+		<mapper resource="mybatis/mapper/bbs.xml"/>
+		<mapper resource="mybatis/mapper/comment.xml"/>
+		<mapper resource="mybatis/mapper/members.xml"/>
+	</mappers>
+</configuration>
