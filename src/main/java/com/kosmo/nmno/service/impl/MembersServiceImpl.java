@@ -21,11 +21,11 @@ import com.kosmo.nmno.service.PagingUtil;
 	예] oneMemoServiceImpl
 	이름을 지정하려면 @Service("임의의ID값") 또는 @Service(value="임의의ID값")
 */
-@Service("memoservice")
+//@Service("memoservice")
 public class MembersServiceImpl implements MembersService {
 	
 	//OneMemoDAO 주입]
-	@Resource(name="oneMemoDAO")//첫자는 소문자
+	//@Resource(name="oneMemoDAO")//첫자는 소문자
 	private MembersDAO dao;
 
 	@Override
@@ -34,11 +34,11 @@ public class MembersServiceImpl implements MembersService {
 	}
 	
 	//(한 페이지에 표시할)페이지 사이즈
-	@Value("${PAGE_SIZE}")
+	//@Value("${PAGE_SIZE}")
 	private int pageSize;
 	
 	//(하단에 보여줄)블락 페이지
-	@Value("${BLOCK_PAGE}")
+	//@Value("${BLOCK_PAGE}")
 	private int blockSize;
 	
 	@Override
