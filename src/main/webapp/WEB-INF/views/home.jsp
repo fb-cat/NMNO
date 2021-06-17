@@ -33,6 +33,10 @@
 			<a href="https://discord.com/"><img src="<c:url value="/resources/images/img_discord.png"/>" alt="img_discord"/></a>
 			<h2>이미지 소스4 : 구글</h2>
 			<a href="https://www.google.com/"><img src="<c:url value="/resources/images/img_google.png"/>" alt="img_google"/></a>
+			<h2>이미지 소스5 : 네이버</h2>
+			<a href="https://www.naver.com/"><img src="<c:url value="/resources/images/img_naver.png"/>" width="128px" height="128px" alt="img_naver"/></a>
+			<h2>이미지 소스6 : 다음</h2>
+			<a href="https://www.daum.net/"><img src="<c:url value="/resources/images/img_daum.png"/>" width="128px" height="128px" alt="img_daum"/></a>
 		</fieldset>
 	</div>
 	<!-- 실제 내용 끝 -->
