@@ -37,6 +37,8 @@
 			<a href="https://www.naver.com/"><img src="<c:url value="/resources/images/img_naver.png"/>" width="128px" height="128px" alt="img_naver"/></a>
 			<h2>이미지 소스6 : 다음</h2>
 			<a href="https://www.daum.net/"><img src="<c:url value="/resources/images/img_daum.png"/>" width="128px" height="128px" alt="img_daum"/></a>
+			<h2>이미지 소스7 : 네이트</h2>
+			<a href="https://www.nate.com/"><img src="<c:url value="/resources/images/nate.png"/>" alt="nate"/></a>
 		</fieldset>
 	</div>
 	<!-- 실제 내용 끝 -->
