@@ -41,7 +41,7 @@
 			<a href="https://www.nate.com/"><img src="<c:url value="/resources/images/nate.png"/>" alt="nate"/></a>
 			<h2>이미지 소스8 : 네이트2</h2>
 			<a href="https://www.nate.com/"><img src="<c:url value="/resources/images/nate.png"/>" alt="nate"/></a>
-			<h2>이미지 소스9 : 네이트3</h2>
+			<h2>이미지 소스19 : 네이트3</h2>
 			<a href="https://www.nate.com/"><img src="<c:url value="/resources/images/nate.png"/>" alt="nate"/></a>
 		</fieldset>
 	</div>
