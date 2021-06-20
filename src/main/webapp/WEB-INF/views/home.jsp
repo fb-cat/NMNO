@@ -41,6 +41,8 @@
 			<a href="https://www.nate.com/"><img src="<c:url value="/resources/images/nate.png"/>" alt="nate"/></a>
 			<h2>이미지 소스8 : 네이트</h2>
 			<a href="https://www.nate.com/"><img src="<c:url value="/resources/images/nate.png"/>" alt="nate"/></a>
+			<h2>이미지 소스99 : 네이트</h2>
+			<a href="https://www.nate.com/"><img src="<c:url value="/resources/images/nate.png"/>" alt="nate"/></a>
 		</fieldset>
 	</div>
 	<!-- 실제 내용 끝 -->
